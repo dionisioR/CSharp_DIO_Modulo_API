@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharp_DIO_Modulo_API.props" />
+</Project>
