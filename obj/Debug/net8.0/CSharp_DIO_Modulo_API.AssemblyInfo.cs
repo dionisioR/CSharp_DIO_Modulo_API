@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_DIO_Modulo_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e01af17fcc7ba572d9a5afc2a1f11934aacfbd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1bd6bacfccb58ca05fc879b61b90e0231349d63")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_DIO_Modulo_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_DIO_Modulo_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
